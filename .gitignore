@@ -1,1 +1,5 @@
 /data-file.bin
+
+__pycache__/ 
+data/ 
+/outputs/ 
